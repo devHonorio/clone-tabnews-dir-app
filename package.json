@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews-dir-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint:fix": "prettier . --write",
+    "lint": "prettier ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
